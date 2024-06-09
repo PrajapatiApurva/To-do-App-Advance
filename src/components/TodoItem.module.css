@@ -1,0 +1,16 @@
+.todoName{
+    /* width: 100%; */
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn{
+    width: 100%;
+    background-color: aqua;
+}
+
+.icon{
+    cursor: pointer;
+    font-size: 1.5rem;
+    /* color: red; */
+}

@@ -1,0 +1,15 @@
+.mainContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #887d7d;
+}
+
+.todoContainer{
+    border: 5px solid rgba(93, 64, 64, 0.735);
+    border-radius: 24px;
+    background-color: #ec6f6f;
+    width: 60%;
+    padding: 16px;
+}
